@@ -1,6 +1,6 @@
-# 🛒 E-Commerce App (MERN Stack)
+# 🛒 E-Commerce App (React js)
 
-Welcome to the **E-Commerce App**, a fully functional web application built using the **MERN Stack** (MongoDB, Express.js, React.js, and Node.js). This project showcases core e-commerce features such as **user authentication**, **product management**, and **order processing**.
+Welcome to the **E-Commerce App**, a fully functional web application built using the **REACT js Stack** (React.js). This project showcases core e-commerce features such as **user authentication**, **product management**, and **order processing**.
 
 ---
 
