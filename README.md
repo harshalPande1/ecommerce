@@ -1,12 +1,64 @@
-# React + Vite
+# 🛒 E-Commerce App (MERN Stack)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **E-Commerce App**, a fully functional web application built using the **MERN Stack** (MongoDB, Express.js, React.js, and Node.js). This project showcases core e-commerce features such as **user authentication**, **product management**, and **order processing**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+✅ **User Authentication**: Users can **register**, **login**, and **logout** securely.  
+✅ **Add to Cart**: Users can add and remove products from their shopping cart.  
+✅ **Order Placement**: Users can place orders seamlessly with a streamlined checkout process.  
+✅ **Search & Filter**: Quickly find products using dynamic search and filter options.  
+✅ **Responsive Design**: Fully mobile-friendly and designed for a seamless user experience.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend**: React.js, React Router, Redux Toolkit
+- **Authentication**: google firebase
+- **Styling**: Bootstrap
+
+---
+
+
+---
+
+## ⚙️ Installation & Setup
+1. **Clone the Repository:**
+```bash
+git clone https://github.com/harshalPande1/ecommerce.git
+cd ecommerce
+```
+
+2. **Install Dependencies:**
+```bash
+# Install client dependencies
+npm install
+```
+
+4. **Run the Application:**
+```bash
+# Start the frontend
+npm run dev
+```
+
+5. **Access the App:**
+- Frontend: `http://localhost:5173/`
+
+---
+
+
+## 🎯 Future Improvements
+🔹 Add Product Reviews & Ratings  
+🔹 Introduce Admin Dashboard for Inventory Management  
+🔹 Improve UI/UX with better design patterns  
+
+---
+
+
+
+
+
+## 📧 Contact
+For inquiries or questions, please contact me at: **harshal619pande@gmail.com**
+
